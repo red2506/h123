@@ -6,10 +6,10 @@ node_modules/
 z*
 
 # Build results - Ignore all files in these folders found at any folder depth
-#[Dd]ebug/
-#[Rr]elease/
-#x64/
-#x86/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
 
 # Root config folder - Ignore this directory at the root due to leading slash
 # Removing the slash would ignore "config" directories at all depths 
