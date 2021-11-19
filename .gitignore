@@ -1,6 +1,6 @@
 node_modules/
 # User-specific files - Ignore all files ending in ".suo"
-*.suo
+*.env
 
 # Mono auto generated files - Ignore all files starting with "mono_crash."
 mono_crash.*
