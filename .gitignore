@@ -13,8 +13,8 @@ x86/
 
 # Root config folder - Ignore this directory at the root due to leading slash
 # Removing the slash would ignore "config" directories at all depths 
-/artifacts
+env/artifacts
 
 # Ignore intermediate JS build files produced during TypeScript build at any 
 # folder depth under /Web/TypeScript. This won't ignore JS files elsewhere. 
-/Web/TypeScript/**/*.js
+#/Web/TypeScript/**/*.js
